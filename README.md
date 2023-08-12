@@ -1,0 +1,1 @@
+HR-APPLICANT-CONNECT is a dynamic MERN project facilitating seamless connections between HR professionals and applicants. Within this platform, HR individuals can generate and publish job listings while applicants can readily apply to these positions, fostering effective communication and interaction between the two.
